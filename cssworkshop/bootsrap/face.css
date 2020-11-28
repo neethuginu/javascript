@@ -1,0 +1,32 @@
+
+
+
+
+form{
+
+    margin-top:100px;
+    margin-left:850px;
+    margin-bottom: 800px;
+    border:solid ;
+    border-color:white;
+    background-color:white;
+    width:250px;
+    height: 300px;
+    text-align:center;
+
+
+}
+h1{ margin:0;
+    
+    color:blue;
+    
+}
+.con{
+    margin:0;
+    margin-left: 250px;
+    margin-top:100px;
+    float:left;
+    width:350px;
+    height: 350px;
+    text-align: left;
+}

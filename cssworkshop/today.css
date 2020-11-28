@@ -1,0 +1,22 @@
+#top{
+    border-style: solid;
+    border-color: red;
+    border-width: 6px;
+    width:50%;
+    margin-left:300px;
+    background-color: skyblue;
+    text-align: center;
+    padding-left:20px;
+}
+#bottom{
+    border-style: solid;
+    border-color: red;
+    border-width: 6px;
+    width:50%;
+    margin-top:450px;
+    margin-left:300px;
+}
+
+h1{
+    font-family: 'Texturina', serif;
+}

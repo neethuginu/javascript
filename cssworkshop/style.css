@@ -1,0 +1,46 @@
+/* tagname or id or class{
+    property:value;
+}
+*/
+body{
+    background-image:url(index.jpeg);
+}
+div h3{
+    text-align: center;
+}
+h1{
+    color:blue;
+    text-align: center;
+}
+#team{
+    color:rgb(34, 197, 20);
+}
+div{
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+    background-color:rgba(34, 197, 20,0.00);
+    width: 50%;
+    margin: auto;
+
+
+}
+#mi{
+    color:red;
+    border-color:green;
+    border-style:solid ;
+    border-width:4px;
+    background-color: hotpink;
+    
+
+}
+.rcb{
+    border-style: double;
+    border-color: red;
+    border-width: 3px;
+    background-color: rgb(45, 160, 83);
+}
+li{
+    margin-left:100PX;
+
+}
