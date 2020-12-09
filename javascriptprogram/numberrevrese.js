@@ -18,6 +18,6 @@ var sum=0;
 while(i<=inp){
     total=total*10+inp;
     sum=sum+total;
-    1++;
+    i++;
 }
 console.log(sum)
